@@ -1,0 +1,1 @@
+1. Script 0 creates an alias for the rm * command with "ls" as the alias.
